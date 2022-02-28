@@ -25,7 +25,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    users: [User]
+   users: [User]  
   }
 
   type Mutation {
@@ -34,4 +34,3 @@ const typeDefs = gql`
 `;
 
 module.exports = typeDefs;
-
