@@ -4,6 +4,8 @@
 
 21-book-search is a Google Books API search engine that has been refactored to be a GraphQL API built with Apollo server rather than using RESTful API. The app was built using the MERN stack. 
 
+The following graphql mutations have been implemented: sign-up, login, and save book. I ran out of time so the queries were not compelted. 
+
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
