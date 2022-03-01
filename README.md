@@ -51,5 +51,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 Application runs in the browswer and can be accessed at: 
 https://murmuring-eyrie-19312.herokuapp.com/
 
+![Screen Shot 2022-02-28 at 10 51 17 PM](https://user-images.githubusercontent.com/88476888/156101572-f97b07ce-27ae-486d-ae07-ceba661d9a13.png)
+
 ## Contributing
 Made with &hearts; by Lara DeStein
